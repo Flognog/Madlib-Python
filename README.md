@@ -1,2 +1,6 @@
 # Madlib-Python
-Pick from multiple different story's and have fun doing some Madlibs!  My first python project.
+Pick from three different Madlib story's and have fun doing some Madlibs!
+Download or run the Madlibs.py file (Python 2.7)
+
+This is my first project so any feedback would be outstanding!
+Enjoy!
